@@ -1,0 +1,8 @@
+python-telegram-bot
+langchain
+Chroma
+chromadb
+pypdf
+openai==0.28
+tiktoken
+deep-translator

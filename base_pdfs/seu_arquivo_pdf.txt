@@ -1,0 +1,1 @@
+colocar na pasta todos os arquivos em pdf que o chatbot deverá ler
